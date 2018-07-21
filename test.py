@@ -1,3 +1,3 @@
 print ("Merhaba Dünya")
 print ("Tarık")
-print ("selam")
+print ("Mars")
